@@ -1,0 +1,2 @@
+# nativeGo
+go native practice
